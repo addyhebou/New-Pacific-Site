@@ -1,0 +1,107 @@
+.cardBox{
+    position: relative;
+    width: 368px;
+    height: 522px;
+
+    background: linear-gradient(180deg, #BD50D8 0%, #D67079 100%);
+    border: 0.1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
+    border-radius: 25px;
+    /* padding: 22px; */
+margin: auto;}
+
+.cardBox .header{
+    /* background-color: #D67079; */
+position: relative;
+/* width: 196px; */
+height: 50px;
+
+margin: auto;
+}
+
+.cardBox h3{
+    /* background-color: olive; */
+    position: relative;
+    width: 163px;
+    height: 76px;
+    
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 76px;
+    margin: auto;
+
+    color: #FFFFFF;
+    
+/* margin: auto; */
+}
+.cardBox h2{
+    position: relative;
+width: 196px;
+height: 29px;
+
+font-family: SF Pro Display;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+/* margin: auto; */
+
+color: #FFFFFF;
+
+margin: auto;}
+
+.cardBox p{
+    position: relative;
+width: 297px;
+height: 19px;
+
+font-family: SF Pro Display;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+
+/* identical to box height */
+
+
+color: #FFFFFF;
+/* margin: auto; */
+margin: 10px auto}
+
+.cardBox .progressBar{
+    position: relative;
+width: 334px;
+height: 23px;
+margin: auto;}
+
+.cardBox .rec{
+    position: relative;
+width: 305px;
+height: 23px;
+
+background: linear-gradient(90deg, #BC1BD7 0%, rgba(255, 116, 86, 0.67) 50.66%, rgba(255, 168, 88, 0.44) 100%);
+border-radius: 40px;
+margin: auto;}
+
+.cardBox .overlayRec{
+    position: relative;
+width: 334px;
+height: 23px;
+
+background: #FFFFFF;
+border-radius: 40px;
+
+margin: auto;}
+
+.cardBox .point{
+    position: relative;
+width: 334px;
+height: 52px;
+
+
+margin: auto;}
